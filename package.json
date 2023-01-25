@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "react-refresh-webpack-plugin": "^0.1.0",
+    "webpack": "^5.75.0",
+    "webpack-dev-server": "^4.11.1"
+  }
+}
